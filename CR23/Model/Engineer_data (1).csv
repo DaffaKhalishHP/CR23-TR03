@@ -1,0 +1,27 @@
+,Name,Role,Topic,Subtopic,Satisfaction Rate,Current Projects
+0,Abdullah Nur Hudi,Backend Engineer,Back End,Express.js,93,"['S1', 'Consulting', 'S2']"
+1,Abiyyu Diora Haqi,Front-end Engineer,Front End,React,94,"['Consulting', 'S1', 'Agriculture', 'Marketing']"
+2,Aditya Tanos mandala,Technical Writer,Technical Writer,Documentation,99,"['Finance', 'Energy', 'Retail', 'Agriculture']"
+3,Andhika Zulfikri,ML Engineer,Computer Vision,Object Detection,87,"['Finance', 'Retail']"
+4,Andi Rezal Oktavianto,Front-end Engineer,Front End,Angular,80,"['S3', 'Finance']"
+5,Azis Sofyanto,ML Engineer,Classification & Regression,Linear Regression,100,"['Marketing', 'S2']"
+6,Bagja Kurniadi,ML Engineer,NLP,Sentiment Analysis,88,"['S1', 'Finance']"
+7,Chairul Rizqi,Backend Engineer,Back End,Django,80,"['Energy', 'Medical', 'S2', 'Retail']"
+8,Alvin Tan,ML Engineer,NLP,Sentiment Analysis,91,"['Technology', 'Retail', 'Medical']"
+9,Christopher Kristianto,ML Engineer,Speech / Audio,Music Information Retrieval,92,"['Medical', 'Retail', 'S3']"
+10,Dewi Sari Handayani,Technical Writer,Technical Writer,Documentation,96,"['Technology', 'Energy']"
+11,Farel Eden,ML Engineer,Data Engineering,Data Warehousing,90,['Education']
+12,Rikip Ginanjar,ML Engineer,Time-series,ARIMA,84,"['Consulting', 'Finance', 'Retail', 'Medical']"
+13,Gabriel Kheisa,ML Engineer,Time-series,LSTM,86,"['Finance', 'S2', 'S1']"
+14,I Putu Ranantha Nugraha Suparta,ML Engineer,Speech / Audio,Speech Recognition,89,"['Medical', 'Agriculture', 'Education', 'Retail']"
+15,Iga Narendra Pramawijaya,Front-end Engineer,Front End,Ember.js,99,['Education']
+16,Imam,Front-end Engineer,Front End,Angular,85,"['Finance', 'S3']"
+17,Kenneth Jo,Technical Writer,Technical Writer,Technical Writing,88,"['Technology', 'Education']"
+18,Muhammad Raden Syawali Akbar,Front-end Engineer,Front End,Ember.js,81,['Energy']
+19,Nyoman Satiya Najwa Sadha,ML Engineer,Time-series,ARIMA,98,"['Consulting', 'Education']"
+20,Putu Gede Agung Karna Sampalan,ML Engineer,Speech / Audio,Speech Recognition,96,"['Consulting', 'Energy', 'S1', 'Technology']"
+21,Sandrian Yulianto,Backend Engineer,Back End,Node.js,86,"['Marketing', 'Finance', 'S1']"
+22,Sarah Sema Khairunisa,ML Engineer,NLP,Topic Modeling,95,['Finance']
+23,Suci Rahmadani,ML Engineer,Classification & Regression,Logistic Regression,83,['Consulting']
+24,Vania Kylie,Backend Engineer,Back End,Express.js,81,['S2']
+25,Wahyu Fauzan,Backend Engineer,Back End,Express.js,84,"['S3', 'S2']"
